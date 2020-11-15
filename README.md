@@ -17,6 +17,7 @@ We experiment on different topic modeling architectures:
 <li>LDA2Vec</li>
 <li>BERT</li>
 <li>Twitter-LDA (Java implementation)</li>
+<li>Twitter-LDA_python (Python implementation)</li>
 </ul>
 
 BTM, GSDMM performs quite well for short text corpus like tweets. We intend to experiment on other models and show topic-coherence from the ouptput. 
